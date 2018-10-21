@@ -1,0 +1,23 @@
+current directory: /mnt/d/Garden Of Creativity/myrmagir-website/vendor/bundle/gems/ffi-1.9.18/ext/ffi_c
+/usr/bin/ruby2.5 -r ./siteconf20181021-29541-m9c6te.rb extconf.rb
+/usr/lib/ruby/2.5.0/mkmf.rb:1553: warning: Insecure world writable dir /mnt/c in PATH, mode 040777
+checking for ffi.h... no
+checking for ffi.h in /usr/local/include,/usr/include/ffi... no
+checking for shlwapi.h... no
+checking for rb_thread_blocking_region()... no
+checking for rb_thread_call_with_gvl()... yes
+checking for rb_thread_call_without_gvl()... yes
+checking for ffi_prep_cif_var()... no
+creating extconf.h
+creating Makefile
+
+current directory: /mnt/d/Garden Of Creativity/myrmagir-website/vendor/bundle/gems/ffi-1.9.18/ext/ffi_c
+make "DESTDIR=" clean
+
+current directory: /mnt/d/Garden Of Creativity/myrmagir-website/vendor/bundle/gems/ffi-1.9.18/ext/ffi_c
+make "DESTDIR="
+/bin/sh: 1: Syntax error: "(" unexpected
+libffi.mk:6: recipe for target '"/mnt/d/Garden' failed
+make: *** ["/mnt/d/Garden] Error 2
+
+make failed, exit code 2
