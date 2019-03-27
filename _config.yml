@@ -38,15 +38,15 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+twitter:            myrmagir
+facebook:           Myrmagir
+instagram:          None
+github:             myrmagir
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           Hamburg, Germany
+phone:              No Phone
+email:              myrmagir@gmail.com
 
 # Gems
 gems:
