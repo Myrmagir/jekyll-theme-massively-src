@@ -1,7 +1,7 @@
 # Site
 title:              Myrmagir
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+bio:                'Myrmagir - A Pen and Paper Game'
+description:        "Myrmagir - A Pen and Paper Game"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
